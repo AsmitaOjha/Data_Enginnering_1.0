@@ -43,11 +43,11 @@ After inserting all data, I committed the changes to make sure the data was perm
 
 
 <h3>4. Tools and Technologies</h3>
-    Python: Used for data manipulation and interaction with PostgreSQL.
-    Pandas: For working with CSV files and cleaning the data.
-    PostgreSQL: The relational database where the cleaned data was stored.
-    psycopg2: A Python library used to connect and interact with PostgreSQL.
-    Jupyter Notebook: Used for writing and running Python code in an interactive environment.
+    Python: Used for data manipulation and interaction with PostgreSQL.<br>
+    Pandas: For working with CSV files and cleaning the data.<br>
+    PostgreSQL: The relational database where the cleaned data was stored.<br>
+    psycopg2: A Python library used to connect and interact with PostgreSQL.<br>
+    Jupyter Notebook: Used for writing and running Python code in an interactive environment.<br>
 
 This project was completed by following the YouTube videos from Darshil Parmar's channel, which provided the guidance for each step. The videos explained how to work with PostgreSQL and pandas and build a complete end-to-end project.
 
